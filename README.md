@@ -6,7 +6,7 @@ This is a simple landing page created with Next.js. It includes a header, a few 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/larsswenson/your-next-app
 
 Navigate to the project directory:
 
